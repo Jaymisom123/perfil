@@ -13,7 +13,7 @@
     
     🚀 This portfolio is still evolving, and I’m open to feedback to make it even better! Feel free to explore and share your thoughts.
     
-    🔗 Check it out: <a href="https://680672b45d302135fff5e341--portfoliojaymerego.netlify.app/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arroyomatias19" height="30" width="40" /></a>
+     🔗 Confira meu portfólio: [portfoliojaymerego.netlify.app](https://680672b45d302135fff5e341--portfoliojaymerego.netlify.app/)
     
     Let’s connect and build amazing things together!
     
